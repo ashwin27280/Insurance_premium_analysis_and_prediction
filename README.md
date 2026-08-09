@@ -1,6 +1,11 @@
 # Insurance Premium Prediction & Risk Analytics
 
-Predicting annual health insurance premiums from demographic, financial, and health data, with a companion Power BI dashboard for underwriting/pricing stakeholders.
+A full pipeline from raw data to stakeholder-facing dashboard: cleaning → EDA → feature engineering → model comparison → business insights → BI dashboard.
+
+##  Business problem
+
+Health insurers price premiums using broad actuarial tables that often under-weight or over-weight individual risk factors, leading to two costly outcomes: under-pricing high-risk customers (the insurer absorbs losses on claims that exceed the premium collected) and over-pricing low-risk customers (the insurer loses competitive, price-sensitive customers to rivals with sharper pricing).
+
 
 ## Overview
 
